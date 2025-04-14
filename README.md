@@ -32,3 +32,7 @@ This is the hidden content that becomes visible when the triangle is clicked.
 
 </details>
 
+### 5. Word with gray highlight
+
+Calling this `send` function 
+
